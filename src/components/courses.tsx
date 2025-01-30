@@ -8,7 +8,7 @@ export function Courses1(){
     return(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame1.png'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame1.png'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Design & Development</h1></div>
