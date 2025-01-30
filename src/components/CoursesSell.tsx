@@ -8,8 +8,8 @@ interface GridItemProps {
 
 export function CoursesSell1() {
     return (
-        <div className='flex flex-col w-full bg-[#f7f7f7] rounded-lg '>
-            <div className='h-full'>
+        <div className='flex flex-col w-full h-auto bg-[#f7f7f7] rounded-lg '>
+            <div className=''>
                 <Image src={'/design.svg'} alt='' width={200} height={200} className='object-contain w-full rounded-lg'></Image>
             </div>
             <div className='flex flex-col w-full px-2 py-4'>
@@ -72,7 +72,7 @@ export function CoursesSell3() {
     return (
         <div className='flex flex-col w-full bg-[#f7f7f7] rounded-lg'>
             <div>
-                <Image src={'/Business.svg'} alt='' width={200} height={200} className='object-contain w-full rounded-lg'></Image>
+                <Image src={'/business.svg'} alt='' width={200} height={200} className='object-contain w-full rounded-lg'></Image>
             </div>
             <div className='flex flex-col w-full px-2 py-4'>
                 <div className='flex justify-between w-full py-2'>

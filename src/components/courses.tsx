@@ -68,7 +68,7 @@ export function Courses5({visible:visible}:GridItemProps){
     return visible ?(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame5.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame5.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Digital Marketing</h1></div>
@@ -83,7 +83,7 @@ export function Courses6({visible:visible}:GridItemProps){
     return visible ?(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame6.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame6.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Self Development</h1></div>
@@ -98,7 +98,7 @@ export function Courses7({visible:visible}:GridItemProps){
     return visible ?(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame 7.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame 7.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Business</h1></div>
@@ -113,7 +113,7 @@ export function Courses8({visible:visible}:GridItemProps){
     return visible ?(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame8.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame8.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Finance</h1></div>
@@ -128,7 +128,7 @@ export function Courses9({visible:visible}:GridItemProps){
     return visible ?(
         <div className='flex items-center bg-[#f7f7f7] p-2 rounded-lg w-full'>
             <div className='w-2/6'>
-                <Image src={'/frame9.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
+                <Image src={'/Frame9.svg'} alt='' width={200} height={200} className='w-20 rounded-lg'/>
             </div>
             <div>
                 <div><h1 className='font-bold'>Consulting</h1></div>
